@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://10.64.22.200:3306/test
+    username: uiadmin
+    password: uiadmin
